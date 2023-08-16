@@ -1,0 +1,18 @@
+'''
+There are different types of access modifiers in java.
+access modifiers are used in three levels:
+1)class level
+2)method level
+3)variable level
+
+class level modifiers:         method level modifiers:             variable level modifiers:
+public                          public                              public
+default <>                      protected                           protected
+final                           private                             private
+abstract                        static                              static
+strictfp                        abstract                            final
+                                final                               <>
+                                syncronized                         transist
+                                native                              volatile
+                                <>
+                                strictfp
