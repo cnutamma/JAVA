@@ -4,9 +4,9 @@ class Parent{
         }
 }
 class Child extends Parent{
-   /*   public String m1(){
+      public String m1(){
             return "Child class -m1 method";
-     } */
+     }
       public String m2(){
             return "Child class -m2 method";
         }
