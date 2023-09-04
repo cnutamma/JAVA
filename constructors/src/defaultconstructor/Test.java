@@ -1,4 +1,4 @@
-package defaultconstructor;
+package constructors;
 
 public class Test extends Srinu {
 	private static String name;

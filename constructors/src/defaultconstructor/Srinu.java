@@ -1,4 +1,4 @@
-package defaultconstructor;
+package constructors;
 
 public class Srinu {
 	public Srinu(Class<Integer> class1, String name) {
