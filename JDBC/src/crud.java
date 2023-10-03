@@ -93,12 +93,15 @@ public class crud {
 	private void updateData() throws SQLException {
 		String sql_st="UPDATE  emp set ename = ? where eid= ? ";  
 		PreparedStatement st=con.prepareStatement(sql_st);
-		System.out.println("Enter Emp Name:");
+		
+		System.out.println("Enter Emp New_Name:");
 		st.setString(1, sc.nextLine());
-
 		
 		System.out.println("Enter Emp Id:");
 		st.setInt(2, sc.nextInt());
+		
+	
+
 		
 		
 		

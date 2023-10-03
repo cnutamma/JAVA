@@ -9,6 +9,9 @@ public class EvenOdd {
 		Scanner sc=new Scanner(System.in);
 		int data=sc.nextInt();
 		sc.close();
+		
+		
+		//uninary operator
 //		String check = (data % 2 == 0) ? "even" : "odd";
 //
 //		    System.out.println("The entered number "+ data + " is: " + check);
