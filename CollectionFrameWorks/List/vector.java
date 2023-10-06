@@ -1,10 +1,10 @@
 import java.util.*;  
-import java.util.ArrayList;
+import java.util.Vector;
 class Test{  
 public static void main(String args[]){ 
-//Creating arraylist  
-ArrayList<String> list=new ArrayList<String>(); 
-//Adding object in arraylist  
+//Creating vector  
+Vector<String> list=new Vector<String>(); 
+//Adding object in vector 
 list.add("Srinu");
 list.add("Gopi");  
 list.add("Vamsi");  
@@ -16,5 +16,6 @@ Iterator itr=list.iterator();
 while(itr.hasNext()){  
 System.out.println(itr.next());  
 }  */
+
 }  
 }  
