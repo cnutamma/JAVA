@@ -1,0 +1,13 @@
+In Update method,
+
+Update the 2nd bit (position=1) of a number n to 1(n=0101)
+
+then,we need to perform to tasks:
+
+For 1:We need to change to 0 so we are clearing
+1)bit mask(1<<i)
+2)AND with NOT
+
+For 0:We need to change to 1 so we are seting
+1)bit mask(1<<i)
+2)OR 

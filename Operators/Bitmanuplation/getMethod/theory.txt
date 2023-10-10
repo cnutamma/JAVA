@@ -1,0 +1,6 @@
+In get method,
+
+Get the 2nd bit (position=2) of a number n(n=0101)
+then,we need to perform to tasks:
+1)bit mask(1<<i)
+2)&(and) operator 

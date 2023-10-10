@@ -1,0 +1,7 @@
+Time Complexity:
+
+time Complexityis directly proportional to run time Complexity.
+
+1)Best case - omega(1)
+2)Average case-teta(n+1/2)
+3)Worst case-BigO(n)

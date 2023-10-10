@@ -1,0 +1,28 @@
+Binary Number System(base 2):
+0,1
+Decimal numbers:
+0,1,2,3,4,5,6,7,8,9
+
+examples:
+convert 4 into decimal?
+
+take lcm for 4.
+
+2|_4  reminder:0
+ |_2  reminder:0
+ |_1  reminder:1
+
+from bottom to up:100 it is the binary number for 4.
+
+
+convert 101 into binary?
+
+for binary conversion we need to multiply one's digit from 2^0 and ten's digit from 2^1 ------------
+and then we need to add them.
+
+1     0      1
+2^2  2^1    2^0
++___+______+_______
+4     0      1
+___________________
+=>4+0+1=5
