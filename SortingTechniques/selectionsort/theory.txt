@@ -1,0 +1,20 @@
+Selection sort:
+
+In this sorting technique,we assume smallest element as 0th index and compare and then swap.
+Per one iterartion we will swap only one element.
+
+example:
+arr     7 8 3 1 2
+index:  0 1 2 3 4
+iterartion 1:
+        1 8 3 7 2
+smallest =[0]-7
+          [2]-3
+          [3]-1
+
+iterartion 2:
+        1 2 3 7 8
+smallest =[1]-8
+          [2]-3
+          [4]-2
+
